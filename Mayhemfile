@@ -1,0 +1,5 @@
+project: jacob-clemente/IPObfuscator
+target: IPObfuscator
+
+cmds:
+  - cmd: echo @@ | /IPObfuscator
